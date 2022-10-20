@@ -1,0 +1,2 @@
+# Learning OOP with python using a simple real world example <br />
+The task is to create a switchboard with switches and regulators, which control whether the associated fan is switched on or off and set the speed of the fan respectively
